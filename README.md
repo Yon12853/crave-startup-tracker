@@ -26,7 +26,7 @@ cd crave-startup-tracker
 ```shell
 npm install
 ```
-#### 4. Run The App em http://localhost:3000/
+#### 4. Run The App on http://localhost:3000/
 ```shell
 npm start
 ```
