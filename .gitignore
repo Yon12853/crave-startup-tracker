@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+# testing
+/coverage
+# production
+/build
+# misc
+package-lock.json
+npm-debug.log*
+.idea
