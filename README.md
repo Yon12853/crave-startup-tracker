@@ -3,7 +3,7 @@
 A simple app that help startups track their firm establishment progress. Every startup goes through several stages. In every stage, there are necessary steps to be
 accomplished. This app tracks each stages and help startups track their firm establishment progress.
 
-##### [View App](https://crave-startup-tracker.dev) on Vercel
+##### [View App](https://crave-startup-tracker.vercel.app/) on Vercel
 
 <p align="center">
   <a src="#" target="_blank"><img src="about/crave-startup-tracker.png" width="100%" height="auto" /></a>
